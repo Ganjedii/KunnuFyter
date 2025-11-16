@@ -29,7 +29,7 @@ To install the bot, follow these steps:
 
 2. **Navigate to the project directory**:
     ```bash
-    cd Priyansh-bot-v2
+    cd KunnuFyter
     ```
 
 3. **Install the dependencies**:
@@ -46,10 +46,10 @@ To install the bot, follow these steps:
 
 This project supports two FCA (Facebook Chat API) options:
 
-1. **fca-priyansh**
-2. **priyanshu-fca** (Recommended)
+1. **fca-kunnu**
+2. **kunnu-fca** (Recommended)
 
-You can choose to use either of these options, but it's recommended to use **priyanshu-fca** for the best performance and stability.
+You can choose to use either of these options, but it's recommended to use **kunnu-fca** for the best performance and stability.
 
 ## Usage
 
